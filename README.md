@@ -17,5 +17,5 @@
 | 11.   | [<b>Определение стоимости автомобилей</b>](https://github.com/Mc1air/Y.Projects/tree/main/11.%20Car_cost) | Численные методы |  |   |
 | 12.   | [<b>Прогнозирование заказов такси</b>](https://github.com/Mc1air/Y.Projects/tree/main/12.%20Taxi_order_forecasting)  | Временные ряды |   |   |
 | 13.   | [<b>Классификация комментариев</b>](https://github.com/Mc1air/Y.Projects/tree/main/13.%20Comment_classification)  | Машинное обучение для текстов |   |   |
-| 14.   | [<b>Определение возраста покупателей</b>](https://github.com/Mc1air/Y.Projects/tree/main/14.%20Determining_the_age_of_buyers)  | Компьютерное зрение |   |   |
-| 15.   | [<b>Промышленность</b>](https://github.com/Mc1air/Y.Projects/tree/main/15.%20Industry)  | Выпускной проект |   |   |
+| 14.   | [<b>Определение возраста покупателей</b>](https://github.com/Mc1air/Y.Projects/tree/main/14.%20Determining_the_age_of_buyers)  | Компьютерное зрение | Построение модели, которая по фотографии определит приблизительный возраст человека | Python, Pandas, NumPy, Matplotlib, Keras, Tensorflow |
+| 15.   | [<b>Промышленность</b>](https://github.com/Mc1air/Y.Projects/tree/main/15.%20Industry)  | Выпускной проект | Построение модели, которая предскажет температуру стали для уменьшения потребления электроэнергии на этапе обработки стали | Python, Pandas, NumPy, Sklearn, Seaborn, Matplotlib, LightGBM |
