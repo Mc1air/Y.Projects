@@ -13,9 +13,9 @@
 | 7.   | [<b>Отток клиентов</b>](https://github.com/Mc1air/Y.Projects/tree/main/7.%20Customer_churn) | Обучение с учителем | Построение модели с предельно большим значением F1-меры (не менее 0.59), чтобы спрогнозировать, уйдёт клиент из банка в ближайшее время или нет | Python, Pandas, NumPy, Sklearn, Seaborn, Matplotlib |
 | 8.   |  [<b>Выбор локации для скважины</b>](https://github.com/Mc1air/Y.Projects/tree/main/8.%20Well_location) | Машинное обучение в бизнесе | Построение модели машинного обучения, которая поможет определить регион, где добыча нефти принесёт наибольшую прибыль. Анализ возможной прибыли и рисков техникой Bootstrap | Python, Pandas, NumPy, Sklearn, SciPy |
 | 9.   |  [<b>Восстановление золота из руды</b>](https://github.com/Mc1air/Y.Projects/tree/main/9.%20Gold_recovery) | Сборный проект 2 | Построение модели, которая должна предсказать коэффициент восстановления золота из золотосодержащей руды | Python, Pandas, NumPy, Sklearn, SciPy, Seaborn, Matplotlib, tqdm |
-| 10.   | [<b>Защита персональных данных клиентов</b>](https://github.com/Mc1air/Y.Projects/tree/main/10.%20Protection_of_personal_information) | Линейная алгебра |   |   |
-| 11.   | [<b></b>]() | Численные методы |   |   |
-| 12.   | [<b></b>]()  | Временные ряды |   |   |
-| 13.   | [<b></b>]()  | Машинное обучение для текстов |   |   |
-| 14.   | [<b></b>]()  | Компьютерное зрение |   |   |
-| 15.   | [<b></b>]()  | Выпускной проект |   |   |
+| 10.   | [<b>Защита персональных данных клиентов</b>](https://github.com/Mc1air/Y.Projects/tree/main/10.%20Protection_of_personal_information) | Линейная алгебра | Нужно разработать такой метод преобразования данных, чтобы по ним было сложно восстановить персональную информацию, при этом, при преобразовании качество моделей машинного обучения не должно ухудшиться | Python, Pandas, NumPy, Sklearn, Seaborn, Matplotlib |
+| 11.   | [<b>Определение стоимости автомобилей</b>](https://github.com/Mc1air/Y.Projects/tree/main/11.%20Car_cost) | Численные методы |  |   |
+| 12.   | [<b>Прогнозирование заказов такси</b>](https://github.com/Mc1air/Y.Projects/tree/main/12.%20Taxi_order_forecasting)  | Временные ряды |   |   |
+| 13.   | [<b>Классификация комментариев</b>](https://github.com/Mc1air/Y.Projects/tree/main/13.%20Comment_classification)  | Машинное обучение для текстов |   |   |
+| 14.   | [<b>Определение возраста покупателей</b>](https://github.com/Mc1air/Y.Projects/tree/main/14.%20Determining_the_age_of_buyers)  | Компьютерное зрение |   |   |
+| 15.   | [<b>Промышленность</b>](https://github.com/Mc1air/Y.Projects/tree/main/15.%20Industry)  | Выпускной проект |   |   |
