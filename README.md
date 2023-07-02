@@ -1,5 +1,8 @@
 # Яндекс.Практикум "Специалист по Data Science"
 
+<a href="https://github.com/Mc1air/Yandex_Practicum/blob/main/Certificates/English%20ver.pdf"><b>Course completion Certificate (English)</b> :mortar_board: </a><br>
+<a href="https://github.com/Mc1air/Yandex_Practicum/blob/main/Certificates/Russian%20ver.pdf"><b>Сертификат об окончании курса (Русская версия)</b> :mortar_board: </a><br>
+
 Проекты, реализованные в ходе обучения на Яндекс.Практикум.
 
 | #    | Проект       | Сфера деятельности |   Направление деятельности  | Задача проекта  | Инструменты и навыки |
